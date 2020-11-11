@@ -1,0 +1,17 @@
+/*
+  Differentes couleurs de boutons :
+  g-play -> Gold
+  b-play -> Blue
+  blk-play -> Black
+  n-play -> neutre
+  r-play -> Red
+  l-play -> lightblue
+*/
+.prevBtn  { background: url(../img/slider/controls/prev.svg)  no-repeat center; }
+.pauseBtn { background: url(../img/slider/controls/pause.svg) no-repeat center; }
+.playBtn  { background: url(../img/slider/controls/play.svg)  no-repeat center; }
+.nextBtn  { background: url(../img/slider/controls/next.svg)  no-repeat center; }
+
+
+
+/* ICI débute botre CSS*/
