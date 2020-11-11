@@ -40,4 +40,5 @@ C'est ici que vous aurez le plus de travail
 
 ## Point bonus : 
 Finir d'arranger visuellement la partie admin/add_podcast et admin/edut_podcast
+
 Customiser la page de connexion 
